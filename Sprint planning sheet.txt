@@ -1,0 +1,17 @@
+-------------------------------------------***PECUNIA BANK***----------------------------------------------
+
+SCRUM MASTER : Sumanth Dande
+
+
+TEAM MEMBERS : Rakesh Kuruva
+	       Lovaraju Kandala
+	       Savaram Venkata Sai Kumar
+	       Satyam Ishanth
+
+
+USE CASES :  ACCOUNT      => Rakesh Kuruva
+	     TRANSACTIONS => Lovaraju Kandala
+		             Satyam Ishanth
+
+	     LOAN         => Sumanth Dande
+	     PASSBOOK     => Savaram Venkata Sai Kumar
